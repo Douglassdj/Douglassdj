@@ -1,6 +1,6 @@
-## 🦆 Rubber Duck Debugging
+## 🦆 Rubber Duck Debugging <img src="https://raw.githubusercontent.com/Douglassdj/Douglassdj/main/6e4ac5ef4b207b31dc6007ce658d7a85.gif" width="24" alt="Rubber Duck">
 
-<img src="https://raw.githubusercontent.com/Douglassdj/Douglassdj/main/6e4ac5ef4b207b31dc6007ce658d7a85.gif" width="24" alt="Rubber Duck">
+
 
 Sou um profissional de tecnologia apaixonado por resolver problemas, melhorar processos e criar soluções úteis com tecnologia.
 Também desenvolvo sites, landing pages e aplicações próprias. Gosto de aprender coisas novas, compartilhar conhecimento e transformar ideias em projetos reais. 👨‍💻🚀
