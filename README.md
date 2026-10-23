@@ -1,9 +1,12 @@
 
-## 🦆 Rubber Duck Debugging
+# Doug 👨‍💻
+
+
+## Rubber Duck Debugging! 🦆
+
 
 Sou um profissional de tecnologia apaixonado por resolver problemas, melhorar processos e criar soluções úteis com tecnologia.
 Também desenvolvo sites, landing pages e aplicações próprias. Gosto de aprender coisas novas, compartilhar conhecimento e transformar ideias em projetos reais. 👨‍💻🚀
-
 
 - 💻 Gosto de criar soluções que facilitem a vida das pessoas.
 - ⚙️ Gosto de automatizar processos e encontrar maneiras melhores de fazer as coisas.
